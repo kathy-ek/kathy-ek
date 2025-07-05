@@ -1,28 +1,63 @@
-# 👋 Hi there!
+# 👋 Hello, I'm Catherina El Khoury
 
-I'm Catherina El Khoury, a final-year Computer Engineering student at the Holy Spirit University of Kaslik.
+🎓 I'm a **Computer Engineer** passionate about building meaningful digital solutions that merge design, functionality, and innovation.
 
-## 🤠 About Me
+💡 I enjoy crafting clean, responsive interfaces, solving complex problems with code, and continuously learning new technologies. I believe technology should be intuitive, impactful, and accessible.
 
-- Passionate about software development and innovative tech solutions  
-- Always learning, building, and exploring best practices  
-- Open to freelance, internship, part-time or full-time opportunities  
-
-## 🚀 Skills
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest&logoColor=white)
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+🌐 Explore my portfolio: [kathyelkhoury.com](https://kathyelkhoury.com)
 
 ---
 
-✨ _Feel free to explore my repositories and reach out if you’d like to collaborate or just say hello!_
+## 🤓 What I Focus On
+
+- Frontend & UI Development  
+- Web Performance & Accessibility  
+- Shopify Customization  
+- Full-Stack Projects  
+- AI & Machine Learning Experiments
+
+---
+
+## 🚀 Tech Stack
+
+**Languages & Frameworks**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Styling**  
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+**AI / ML**  
+`TensorFlow` · `Keras` · `OpenCV` · `Pandas` · `NumPy`
+
+---
+
+## 🗣️ Languages
+
+- Arabic: Native  
+- English: Advanced  
+- French: Advanced  
+- German: Beginner
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)  
+📫 elkhourycatherina@gmail.com  
+🌍 [kathyelkhoury.com](https://kathyelkhoury.com)
+
+---
+
+✨ _Thanks for visiting! Feel free to explore my repos and drop a message if you'd like to collaborate._
