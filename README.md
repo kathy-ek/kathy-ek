@@ -13,7 +13,6 @@
 - Frontend & UI Development  
 - Web Performance & Accessibility  
 - Shopify Customization  
-- Full-Stack Projects  
 - AI & Machine Learning Experiments
 
 ---
@@ -60,4 +59,4 @@
 
 ---
 
-✨ _Thanks for visiting! Feel free to explore my repos and drop a message if you'd like to collaborate._
+✨ _Thanks for visiting! Feel free to explore my repos and drop a message if you'd like to collaborate!_
